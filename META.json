@@ -21,8 +21,7 @@
          "share",
          "eg",
          "examples",
-         "author",
-         "data"
+         "author"
       ]
    },
    "prereqs" : {

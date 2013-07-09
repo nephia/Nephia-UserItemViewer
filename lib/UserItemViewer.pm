@@ -1,7 +1,7 @@
 package UserItemViewer;
 use strict;
 use warnings;
-use Nephia plugins => [qw/Teng FormValidator::Lite/];
+use Nephia plugins => [qw/Teng/];
 
 our $VERSION = 0.01;
 
